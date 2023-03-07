@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/calors_lleth/)
 
 
-[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosGalleth&show_icons=true&theme=dracula)]
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosGalleth&show_icons=true&theme=dracula)
 
 ## Tecnologias usadas no meu dia a dia
 
