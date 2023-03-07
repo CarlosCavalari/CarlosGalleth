@@ -1,8 +1,8 @@
 ### Oi, eu sou o Carlos 🤙
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-perezini-cavalari-347740250/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-perezini-cavalari-347740250/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/calors_lleth/)]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/calors_lleth/)
 
 [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosGalleth&show_icons=true&theme=dracula)]
 
