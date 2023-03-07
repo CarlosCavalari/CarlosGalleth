@@ -7,7 +7,7 @@
 
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosGalleth&show_icons=true&theme=dracula)
 
-[![Tecnologias mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGalleth&hide_progress=true)](https://github.com/CarlosGalleth/github-readme-stats)
+[![Tecnologias mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGalleth&hide_progress=false)](https://github.com/CarlosGalleth/github-readme-stats)
 
 ## Tecnologias usadas no meu dia a dia
 
