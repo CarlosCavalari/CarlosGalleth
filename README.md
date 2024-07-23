@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-perezini-cavalari-347740250/)
 
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosGalleth&show_icons=true&theme=dracula)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCavalari&show_icons=true&theme=dracula)
 
 ## Tecnologias usadas no meu dia a dia
 
